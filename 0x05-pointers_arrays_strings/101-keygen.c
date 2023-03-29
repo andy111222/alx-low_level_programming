@@ -1,9 +1,6 @@
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <time.h>
-
 
 /**
  * main - program that generates random valid
@@ -28,7 +25,7 @@ int main(void)
 		n = 2772 - sum - '0';
 		sum += n;
 		putchar(n + '0');
-		break;
+		brea;k
 	}
 }
 return (0);
